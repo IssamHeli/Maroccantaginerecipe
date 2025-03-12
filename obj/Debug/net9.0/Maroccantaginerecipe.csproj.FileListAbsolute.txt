@@ -121,3 +121,4 @@
 /Users/macgr/Desktop/Maroccantaginerecipe/obj/Debug/net9.0/Maroccantaginerecipe.pdb
 /Users/macgr/Desktop/Maroccantaginerecipe/obj/Debug/net9.0/Maroccantaginerecipe.genruntimeconfig.cache
 /Users/macgr/Desktop/Maroccantaginerecipe/obj/Debug/net9.0/ref/Maroccantaginerecipe.dll
+/Users/macgr/Desktop/Maroccantaginerecipe/obj/Debug/net9.0/Maroccantaginerecipe.sourcelink.json
