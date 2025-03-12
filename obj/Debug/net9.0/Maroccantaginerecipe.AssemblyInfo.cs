@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maroccantaginerecipe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a7eed3f244fac492528553a4dba1874fbe903b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maroccantaginerecipe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maroccantaginerecipe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
