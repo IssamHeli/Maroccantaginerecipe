@@ -1,0 +1,57 @@
+.input-box[b-9vcjv80ofd] {
+    display: flex; 
+    flex-direction: column; 
+    background: white;
+    border: 1px solid rgb(229, 231, 235);
+    border-radius: 8px;
+    padding: 0.5rem 0.75rem;
+    margin-top: 0.75rem; 
+}
+
+    .input-box:focus-within[b-9vcjv80ofd] {
+        outline: 2px solid #4152d5;
+    }
+
+textarea[b-9vcjv80ofd] {
+    resize: none;
+    border: none;
+    outline: none;
+    flex-grow: 1;
+}
+
+    textarea:placeholder-shown + .tools[b-9vcjv80ofd] {
+        --send-button-color: #aaa;
+    }
+
+.tools[b-9vcjv80ofd] {
+    display: flex; 
+    margin-top: 1rem; 
+    align-items: center;
+}
+
+.tool-icon[b-9vcjv80ofd] {
+    width: 1.25rem;
+    height: 1.25rem;
+}
+
+.send-button[b-9vcjv80ofd] {
+    color: var(--send-button-color);
+    margin-left: auto;
+}
+
+    .send-button:hover[b-9vcjv80ofd] {
+        color: black;
+    }
+
+.attach[b-9vcjv80ofd] {
+    background-color: white;
+    border-style: dashed;
+    color: #888;
+    border-color: #888;
+    padding: 3px 8px;
+}
+
+    .attach:hover[b-9vcjv80ofd] {
+        background-color: #f0f0f0;
+        color: black;
+    }

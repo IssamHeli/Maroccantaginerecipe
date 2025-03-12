@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/macgr/Desktop/Maroccantaginerecipe/Maroccantaginerecipe.csproj": {}
+  },
+  "projects": {
+    "/Users/macgr/Desktop/Maroccantaginerecipe/Maroccantaginerecipe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macgr/Desktop/Maroccantaginerecipe/Maroccantaginerecipe.csproj",
+        "projectName": "Maroccantaginerecipe",
+        "projectPath": "/Users/macgr/Desktop/Maroccantaginerecipe/Maroccantaginerecipe.csproj",
+        "packagesPath": "/Users/macgr/.nuget/packages/",
+        "outputPath": "/Users/macgr/Desktop/Maroccantaginerecipe/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macgr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.AI": {
+              "target": "Package",
+              "version": "[9.3.0-preview.1.25114.11, )"
+            },
+            "Microsoft.Extensions.AI.OpenAI": {
+              "target": "Package",
+              "version": "[9.3.0-preview.1.25114.11, )"
+            },
+            "Microsoft.SemanticKernel.Core": {
+              "target": "Package",
+              "version": "[1.37.0, )"
+            },
+            "OpenAI": {
+              "target": "Package",
+              "version": "[2.2.0-beta.1, )"
+            },
+            "PdfPig": {
+              "target": "Package",
+              "version": "[0.1.9, )"
+            },
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
